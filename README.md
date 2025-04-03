@@ -4,7 +4,8 @@ This assignment was developed by Bob Sedgewick and Kevin Wayne.
 Copyright © 2004.
 
 **Program Specification**<br>
-http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
+https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php
 
 **FAQ/Checklist**<br>
-http://coursera.cs.princeton.edu/algs4/checklists/8puzzle.html **Very useful for this project**
+https://coursera.cs.princeton.edu/algs4/assignments/kdtree/faq.php
+
